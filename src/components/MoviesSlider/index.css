@@ -1,0 +1,22 @@
+.video-youtube {
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-bottom: 23px;
+  background-color: white;
+  border-radius: 12px;
+  padding-bottom: 27px;
+}
+
+.close-button {
+  align-self: flex-end;
+  margin-bottom: 5px;
+  border-color: white;
+  cursor: pointer;
+}
+
+.movie-thumbnail {
+  cursor: pointer;
+}
